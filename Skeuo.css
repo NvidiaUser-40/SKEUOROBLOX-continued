@@ -22,12 +22,12 @@
 @var 		  color NavBarTop "Header top colour" #3367c1
 @var 		  color NavBarBottom "Header bottom colour" #173a79
 @var 		  color NavBarText "Header text colour" #fff
-@var		  checkbox CustomBackground "Custom content background colour" 0
-@var 		  color BGColour "Content background colour" #263e6654
+@var		  checkbox CustomBackground "Custom content background colour" 1
+@var 		  color BGColour "Content background colour" #09080882
 @var		  checkbox CustomBlur "Custom background blur" 0
 @var		  range BlurRadius "Blur" [3,3,20,1,'px']
-@var		  checkbox CustomHTMLBackground "Custom background colour" 0
-@var 		  color BGHTMLColour "Background colour" #fff
+@var		  checkbox CustomHTMLBackground "Custom background colour" 1
+@var 		  color BGHTMLColour "Background colour" #202020
 ==/UserStyle== */
 @-moz-document url-prefix("https://www.roblox.com"),
 url-prefix("https://web.roblox.com") {
